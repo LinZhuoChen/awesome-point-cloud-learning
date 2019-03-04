@@ -5,7 +5,7 @@ A curated list of papers & resources linked to deep learning on point sets.
 
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation[https://arxiv.org/abs/1612.00593] [CVPR2017]
 
-  + [tensorflow] https://github.com/charlesq34/pointnet
+  + [tensorflow]  https://github.com/charlesq34/pointnet
 
   + [pytorch] https://github.com/fxia22/pointnet.pytorch
 
