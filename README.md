@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Point Sets learning
+# Awesome Point Cloud learning
 A curated list of papers & resources linked to deep learning on point sets.
 
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation[https://arxiv.org/abs/1612.00593] [CVPR2017]
