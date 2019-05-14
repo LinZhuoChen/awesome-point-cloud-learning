@@ -82,7 +82,19 @@ A curated list of papers & resources linked to deep learning on point sets.
 
   + [pytorch][https://github.com/Tommymhz/PointNet.PointNet2.PointSIFT.Pytorch]
 
-- PointConv: Deep Convolutional Networks on 3D Point Clouds[https://arxiv.org/abs/1811.07246v1] [arxiv2018]
+- Relation-Shape Convolutional Neural Network for Point Cloud Analysis[https://arxiv.org/pdf/1904.07601.pdf] [CVPR2019]
+  + [tensorflow][https://github.com/Yochengliu/Relation-Shape-CNN]
+  
+- Octree guided CNN with Spherical Kernels for 3D PointClouds[https://arxiv.org/abs/1903.00343] [CVPR2019]
+  + [tensorflow][https://github.com/DylanWusee/pointconv]
+- Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN[https://arxiv.org/abs/1811.07782] [CVPR2019]
+- A-CNN: Annularly Convolutional Neural Networks on Point Clouds[https://arxiv.org/abs/1904.08017] [CVPR2019]
+- 3D Point-Capsule Networks[https://arxiv.org/abs/1812.10775] [CVPR2019]
+- Associatively Segmenting Instances and Semantics in Point Clouds[https://arxiv.org/abs/1902.09852] [CVPR2019]
+  + [tensorflow][https://github.com/WXinlong/ASIS]
+
+  
+
 
   
 
